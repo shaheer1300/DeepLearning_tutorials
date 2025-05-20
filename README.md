@@ -4,9 +4,9 @@ A growing collection of self-authored tutorials originally created for workshops
 
 ## 📚 Current Tutorials
 
-- [CNN (Convolutional Neural Networks)](tutorials/CNN.pdf)
-- [PCA (Principal Component Analysis)](tutorials/PCA.pdf)
-- [Attention Mechanism](tutorials/Attention.pdf)
+- [CNN (Convolutional Neural Networks)](CNN.pdf)
+- [PCA (Principal Component Analysis)](PCA.pdf)
+- [Attention Mechanism](Attention.pdf)
 
 ## 🔄 Updates
 
